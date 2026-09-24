@@ -1,16 +1,25 @@
-## Hi there 👋
+# 嗨，我是洪敬哲
 
-<!--
-**luke313313/luke313313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我是學的學生，目前正在學習計算機概論。
 
-Here are some ideas to get you started:
+## 關於我
+-系級:智運一甲
+-正在學習:Python，GitHub
+-感興趣的主題:程式
+-這學期的目標:及格
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 我的作品
+之後會把課堂作品放在GitHub。
+[中原智運](# 嗨，我是洪敬哲
+
+我是學的學生，目前正在學習計算機概論。
+
+## 關於我
+-系級:智運一甲
+-正在學習:Python，GitHub
+-感興趣的主題:程式
+-這學期的目標:及格
+
+## 我的作品
+之後會把課堂作品放在GitHub。
+[中原智運](https://icbd.cycu.edu.tw/)
